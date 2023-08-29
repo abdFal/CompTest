@@ -2,7 +2,7 @@
 <resources>
     <style name="Theme.MyApp.MySplash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/white</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_undraw_order_confirmed_re_g0if</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_mylogo</item>
         <item name="postSplashScreenTheme">@style/Theme.CompTest</item>
         <item name="windowSplashScreenAnimationDuration">3000</item>
     </style>
